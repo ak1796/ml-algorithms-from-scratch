@@ -1,4 +1,4 @@
-Machine Learning Algorithms - From Scratch & Scikit-Learn
+## Machine Learning Algorithms - From Scratch & Scikit-Learn
 
 A personal learning repository where I implement Machine Learning algorithms from scratch to understand the underlying mathematics, followed by their implementation using Scikit-Learn for comparison.
 
